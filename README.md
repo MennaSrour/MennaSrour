@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Menna+Srour+%F0%9F%91%8B;Aspiring+Android+Developer+Learning+Jetpack+Compose" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=4B4B4B&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Menna+Srour+%F0%9F%91%8B;Aspiring+Android+Developer+Learning+Jetpack+Compose" />
 </h1>
 
 <p align="center">
@@ -42,5 +42,9 @@
 <p align="center">
   <a href="mailto:mennasrour441@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/menna-srour-713876235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
